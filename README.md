@@ -34,11 +34,13 @@ This project is an IoT-based environmental monitoring system that measures tempe
 
 ## Project Images
 
+<img width="960" height="1280" alt="WhatsApp Image 2026-06-01 at 1 09 21 PM" src="https://github.com/user-attachments/assets/c046b3b1-40d0-4a8d-96af-f506613d5eb8" />
 
 
 ## ThingSpeak Dashboard
 
-(Add dashboard screenshots here)
+<img width="845" height="288" alt="image" src="https://github.com/user-attachments/assets/7054913e-9289-49aa-9b27-a7db6499cbe6" />
+
 
 ## Results
 
